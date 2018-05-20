@@ -1,0 +1,9 @@
+{
+  "name": "awesome-unstated",
+  "scripts": {
+    "test": "prettier --write ./README.md"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}

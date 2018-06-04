@@ -19,6 +19,7 @@
 * [The Unstated React Service Pattern](https://itnext.io/the-unstated-react-service-pattern-786ea6168d1d)
 * [Composing modular States with React Unstated](https://medium.com/bit-pharma/composing-modular-states-with-react-unstated-2b951ec484b5)
 * [Managing your react state with unstated](https://medium.com/@ahmedtarek_32/managing-your-react-state-with-unstated-9c408ff687d4)
+* [Managing State in React With Unstated](https://css-tricks.com/managing-state-in-react-with-unstated/)
 
 ## Talks
 

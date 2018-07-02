@@ -7,6 +7,7 @@
 * [Official](#official)
 * [Articles](#articles)
 * [Talks](#talks)
+* [Packages](#packages)
 
 ## Official
 
@@ -24,6 +25,11 @@
 ## Talks
 
 * [Unstated ReactJS State](https://youtu.be/y71PDFwSVUA)
+
+## Packages
+
+* [unstated-debug](https://github.com/sindresorhus/unstated-debug) - Debug your Unstated containers with ease
+* [unstated-persist](https://github.com/rt2zz/unstated-persist) - unstated container w/ persistence
 
 ## License
 

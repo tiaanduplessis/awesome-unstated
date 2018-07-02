@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/thejameskyle/unstated/master/logo.png" width="40%">
+</div>
+<br>
+
 # Awesome Unstated [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A collection of awesome things regarding [Unstated](https://github.com/jamiebuilds/unstated).

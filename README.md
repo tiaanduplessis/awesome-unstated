@@ -36,6 +36,11 @@
 
 * [unstated-debug](https://github.com/sindresorhus/unstated-debug) - Debug your Unstated containers with ease
 * [unstated-persist](https://github.com/rt2zz/unstated-persist) - unstated container w/ persistence
+* [unstated-with-containers](https://github.com/fabiospampinato/unstated-with-containers) - Higher-Order Component for providing unstated containers to a component
+* [unstated-connect2](https://github.com/fabiospampinato/unstated-connect2) - Easily connect your containers to components, without sacrificing performance
+* [unstated-suspense](https://github.com/fabiospampinato/unstated-suspense) - Unstated container with support for suspending/unsuspending updates propagation
+* [unstated-compose](https://github.com/fabiospampinato/unstated-compose) - Compose multiple containers into one
+* [unstated-compose-suspense](https://github.com/fabiospampinato/unstated-compose-suspense) - unstated-compose containers with support for suspending/unsuspending updates propagation
 
 ## License
 

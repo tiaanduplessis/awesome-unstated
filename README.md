@@ -34,8 +34,8 @@
 
 ## Packages
 
-* [unstated-debug](https://github.com/sindresorhus/unstated-debug) - Debug your Unstated containers with ease
-* [unstated-persist](https://github.com/rt2zz/unstated-persist) - unstated container w/ persistence
+* [unstated-debug](https://github.com/sindresorhus/unstated-debug): Debug your Unstated containers with ease
+* [unstated-persist](https://github.com/rt2zz/unstated-persist): unstated container w/ persistence
 * [unstated-with-containers](https://github.com/fabiospampinato/unstated-with-containers): Higher-Order Component for subscribing to containers.
 * [unstated-connect2](https://github.com/fabiospampinato/unstated-connect2): Connect containers to components, without sacrificing performance.
 * [unstated-hmr](https://github.com/fabiospampinato/unstated-hmr): Preserve containers' states across Hot-Module-Replacements.
@@ -45,6 +45,10 @@
 * [unstated-suspense](https://github.com/fabiospampinato/unstated-suspense): Suspend/unsuspend updates propagation from your containers.
 * [unstated-suspense-autosuspend](https://github.com/fabiospampinato/unstated-suspense-autosuspend): Automatically use unstated-suspense on all your container's API methods.
 * [unstated-suspense-middleware](https://github.com/fabiospampinato/unstated-suspense-middleware): Add middlewares support to `unstated-suspense`.
+
+## Others
+
+* [overstated](https://github.com/fabiospampinato/overstated): A wrapper around unstated, with many useful plugins built-in, for easier development.
 
 ## License
 

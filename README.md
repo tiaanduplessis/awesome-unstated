@@ -43,6 +43,7 @@
 * [unstated-compose-suspense](https://github.com/fabiospampinato/unstated-compose-suspense): Add suspend/unsuspend support to `unstated-compose`.
 * [unstated-compose-suspense-middleware](https://github.com/fabiospampinato/unstated-compose-suspense-middleware): Add middlewares support to `unstated-compose-suspense`.
 * [unstated-suspense](https://github.com/fabiospampinato/unstated-suspense): Suspend/unsuspend updates propagation from your containers.
+* [unstated-suspense-autosuspend](https://github.com/fabiospampinato/unstated-suspense-autosuspend): Automatically use unstated-suspense on all your container's API methods.
 * [unstated-suspense-middleware](https://github.com/fabiospampinato/unstated-suspense-middleware): Add middlewares support to `unstated-suspense`.
 
 ## License

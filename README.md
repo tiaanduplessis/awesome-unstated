@@ -48,7 +48,9 @@
 
 ## Others
 
-* [overstated](https://github.com/fabiospampinato/overstated): A wrapper around unstated, with many useful plugins built-in, for easier development.
+* [overstated](https://github.com/fabiospampinato/overstated):
+    - [v1](https://github.com/fabiospampinato/overstated/tree/a195ff88bf561616d1fc8ea6caddfb78bee10c28): A wrapper around unstated, with many useful plugins built-in, for easier development.
+    - [v2](https://github.com/fabiospampinato/overstated): The self-proclaimed successor of unstated. React state management library that's delightful to use, without sacrificing performance or scalability.
 
 ## License
 
